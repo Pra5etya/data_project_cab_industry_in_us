@@ -11,7 +11,7 @@
 
 ```
 - git lfs install
-- git lfs track 'file_name.ext'
+- git lfs track 'file_name.extension'
 ```
 
 ## Get Data from Git lfs
@@ -24,3 +24,6 @@
 ```
 - pip install -r requirements.txt
 ```
+
+## Detailed Report
+o) Detailed Report can be seen in US Cab Industries Investment Strategy.pdf
